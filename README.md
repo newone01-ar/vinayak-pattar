@@ -28,10 +28,10 @@ I’m currently working on building a solid portfolio of fundamental and advance
 🚀 [Analog-Circuit-Design](https://Vinayak Balappa Pattar/Analog-Circuit-Design)  
 💡 Foundational analog blocks: common source, op-amps, current mirrors, bandgap, and more.
 
-🧪 [Mixed-Signal-Projects](https://github.com/Vinayak Balappa Pattar/Mixed-Signal-Projects) *(coming soon)*  
+🧪 [Mixed-Signal-Projects](https://github.com/VinayakBalappaPattar/Mixed-Signal-Projects) *(coming soon)*  
 ADC/DAC design, comparator performance, SAR timing control, etc.
 
-🔋 [Power-IC-Designs](https://github.com/Vinayak Balappa Pattar/Power-IC-Designs) *(coming soon)*
+🔋 [Power-IC-Designs](https://github.com/VinayakBalappaPattar/Power-IC-Designs) *(coming soon)*
 LDOs, Buck converters, switched-cap regulators with simulation support.
 
 ---
